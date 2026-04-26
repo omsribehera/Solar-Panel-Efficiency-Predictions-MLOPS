@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tumblrs/solar/mlruns/0/1c6f676d08f24df39503015f27b17983/artifacts
+end_time: 1751638048220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c6f676d08f24df39503015f27b17983
+run_name: overjoyed-mouse-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751638043029
+status: 3
+tags: []
+user_id: root

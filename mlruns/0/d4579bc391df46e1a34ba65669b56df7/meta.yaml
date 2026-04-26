@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tumblrs/solar/mlruns/0/d4579bc391df46e1a34ba65669b56df7/artifacts
+end_time: 1751638108338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4579bc391df46e1a34ba65669b56df7
+run_name: sassy-ram-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751638107119
+status: 3
+tags: []
+user_id: root

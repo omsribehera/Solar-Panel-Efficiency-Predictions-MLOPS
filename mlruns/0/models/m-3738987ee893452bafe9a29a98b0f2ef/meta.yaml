@@ -1,0 +1,10 @@
+artifact_location: file:///home/tumblrs/solar/mlruns/0/models/m-3738987ee893452bafe9a29a98b0f2ef/artifacts
+creation_timestamp: 1751640399613
+experiment_id: '0'
+last_updated_timestamp: 1751640402533
+model_id: m-3738987ee893452bafe9a29a98b0f2ef
+model_type: null
+name: model
+source_run_id: 6e6f6a01b99e4210bb17dd13af032014
+status: 2
+status_message: null

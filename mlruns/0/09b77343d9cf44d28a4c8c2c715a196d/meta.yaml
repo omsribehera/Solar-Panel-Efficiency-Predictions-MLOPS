@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tumblrs/solar/mlruns/0/09b77343d9cf44d28a4c8c2c715a196d/artifacts
+end_time: 1751641164244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09b77343d9cf44d28a4c8c2c715a196d
+run_name: painted-bug-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751641162793
+status: 3
+tags: []
+user_id: root

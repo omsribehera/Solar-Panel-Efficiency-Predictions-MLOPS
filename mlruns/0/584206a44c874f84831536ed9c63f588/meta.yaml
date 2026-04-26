@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tumblrs/solar/mlruns/0/584206a44c874f84831536ed9c63f588/artifacts
+end_time: 1751639160030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 584206a44c874f84831536ed9c63f588
+run_name: useful-calf-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751639158311
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tumblrs/solar/mlruns/0/bf1af5b963de4ac78acf3bb653de0924/artifacts
+end_time: 1751640574255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1af5b963de4ac78acf3bb653de0924
+run_name: peaceful-bear-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751640572924
+status: 3
+tags: []
+user_id: root

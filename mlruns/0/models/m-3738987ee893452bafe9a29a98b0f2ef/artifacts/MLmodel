@@ -1,0 +1,36 @@
+artifact_path: file:///home/tumblrs/solar/mlruns/0/models/m-3738987ee893452bafe9a29a98b0f2ef/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-3738987ee893452bafe9a29a98b0f2ef
+model_size_bytes: 34099515
+model_uuid: m-3738987ee893452bafe9a29a98b0f2ef
+prompts: null
+run_id: 6e6f6a01b99e4210bb17dd13af032014
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "temperature", "required": true}, {"type":
+    "double", "name": "irradiance", "required": true}, {"type": "double", "name":
+    "module_temperature", "required": true}, {"type": "double", "name": "power", "required":
+    true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-04 14:46:39.623968'
